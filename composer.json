@@ -1,0 +1,13 @@
+{
+  "name": "furf/jquery-ui-touch-punch",
+  "description": "Touch Event Support for jQuery UI",
+  "keywords": ["touch", "jquery","jquery-ui","ui","jqueryui"],
+  "homepage": "http://touchpunch.furf.com/",
+  "authors": [
+    {
+      "name": "Dave Furfero",
+      "email": "info@mixitup.io"
+    }
+  ],
+  "license": ["MIT","GPL-2.0"]
+}
